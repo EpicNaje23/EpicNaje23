@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Jean Baptiste 👋
 
-<!--
-**EpicNaje23/EpicNaje23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student in **Computer Science for Management**  
+🎓 Graduating in **July 2026**  
+💼 Actively looking for a **full-time Junior Software Developer position**  
+📍 Europe / Remote  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Science for Management student interested in:
+
+- **Artificial Intelligence and intelligent systems**
+- **Application and web development**
+- **Software solutions for real-world business problems**
+
+I enjoy working in team projects, learning new technologies quickly,
+and applying academic knowledge to practical software development.
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
+- Java  
+- Python  
+- JavaScript / TypeScript  
+- MATLAB  
+- HTML / CSS  
+
+**Frameworks & Tools**
+- React  
+- Git & GitHub  
+- Basic Machine Learning concepts  
+- Web & application development  
+
+---
+
+## 📂 Featured Projects
+
+### Vehicle Detector — React Native + Machine Learning
+Mobile application capable of detecting vehicles using ML models.
+
+### Pub/Sub Terminal System — Java
+Implementation of a terminal-based publish–subscribe communication protocol.
+
+### Collaborative Notes Editor — TypeScript
+Real-time shared note editor developed during a software engineering team project.
+
+➡️ More projects available in my repositories.
+
+---
+
+## 🎯 Career Goal
+
+I am seeking a **full-time Junior Developer role** where I can:
+
+- Contribute to real software products  
+- Grow in **AI, software engineering, and application development**  
+- Work in an international and collaborative environment  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Jean Dindane](https://www.linkedin.com/in/jean-dindane-629a91304/)
+- GitHub: [EpicNaje23](https://github.com/EpicNaje23)
+- Email: jeanbaptiste.dindane@studio.unibo.it
+
+---
+
+
+## 🌍 Languages
+
+- English — Fluent  
+- Italian — Fluent  
+- French — Fluent  
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!
