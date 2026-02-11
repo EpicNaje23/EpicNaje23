@@ -46,11 +46,11 @@ Real-time shared note editor developed during a software engineering team projec
 ### Pub/Sub Terminal System — Java
 Implementation of a terminal-based publish–subscribe communication protocol.
 
-### Student Depression Prediction - ML
+### Student Depression Prediction — Machine Learning
 End-to-end Machine Learning project for binary classification of depressive symptoms among students.
 
 ### Vehicle Detector — React Native + Machine Learning
-Mobile application capable of detecting vehicles using ML models.
+Mobile application capable of detecting vehicles using ML models (in progress).
 
 
 ➡️ More projects available in my repositories.
