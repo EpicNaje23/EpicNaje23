@@ -40,14 +40,18 @@ and applying academic knowledge to practical software development.
 
 ## 📂 Featured Projects
 
-### Vehicle Detector — React Native + Machine Learning
-Mobile application capable of detecting vehicles using ML models.
+### Collaborative Notes Editor — TypeScript
+Real-time shared note editor developed during a software engineering team project.
 
 ### Pub/Sub Terminal System — Java
 Implementation of a terminal-based publish–subscribe communication protocol.
 
-### Collaborative Notes Editor — TypeScript
-Real-time shared note editor developed during a software engineering team project.
+### Student Depression Prediction - ML
+End-to-end Machine Learning project for binary classification of depressive symptoms among students.
+
+### Vehicle Detector — React Native + Machine Learning
+Mobile application capable of detecting vehicles using ML models.
+
 
 ➡️ More projects available in my repositories.
 
