@@ -25,7 +25,8 @@ and applying academic knowledge to practical software development.
 **Programming Languages**
 - Java  
 - Python  
-- JavaScript / TypeScript  
+- JavaScript / TypeScript
+- MySQL
 - MATLAB  
 - HTML / CSS  
 
