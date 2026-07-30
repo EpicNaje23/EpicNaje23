@@ -1,73 +1,76 @@
-# Hi, I'm Jean Baptiste 👋
+# Hi, I'm Jean Baptiste
 
-🎓 Student in **Computer Science for Management**  
-🎓 Graduating in **July 2026**  
-💼 Actively looking for a **full-time Junior Software Developer position**  
-📍 Europe / Remote  
+Graduate in **Computer Science for Management**  
+Graduated in **July 2026**  
+Actively looking for a **full-time Junior Software Developer position**  
+Based in **Linköping, Sweden** / Open to opportunities in Europe
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a Computer Science for Management student interested in:
+I recently graduated in Computer Science for Management and I am interested in:
 
 - **Artificial Intelligence and intelligent systems**
-- **Application and web development**
+- **Application, web, and mobile development**
 - **Software solutions for real-world business problems**
 
-I enjoy working in team projects, learning new technologies quickly,
-and applying academic knowledge to practical software development.
+I enjoy building practical applications, working in team projects, learning new technologies quickly, and applying both software engineering and AI concepts to real use cases.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Programming Languages**
-- Java  
-- Python  
+- Java
+- Python
 - JavaScript / TypeScript
-- MySQL
-- MATLAB  
-- HTML / CSS  
+- SQL / MySQL
+- MATLAB
+- HTML / CSS
 
 **Frameworks & Tools**
-- React  
-- Git & GitHub  
-- Basic Machine Learning concepts  
-- Web & application development  
+- React
+- React Native
+- PyTorch
+- Git & GitHub
+- Convex
+- Clerk
+- Machine Learning / Deep Learning
+- Web & application development
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### Collaborative Notes Editor — TypeScript
-Real-time shared note editor developed during a software engineering team project.
+### CarZam — React Native + PyTorch + Deep Learning
+Completed thesis project: a mobile application for vehicle detection using audio classification.  
+CarZam transforms audio recordings into log-mel spectrograms and uses a CNN-based PyTorch model for classification.
+
+### Collaborative Notes Editor — React + TypeScript + Convex + Clerk
+Real-time shared note editor developed during a software engineering team project, with collaborative editing, authentication, and persistent data storage.
 
 ### Pub/Sub Terminal System — Java
-Implementation of a terminal-based publish–subscribe communication protocol.
+Terminal-based publish-subscribe communication protocol implemented in Java, with multithreading and concurrency handling.
 
 ### Student Depression Prediction — Machine Learning
-End-to-end Machine Learning project for binary classification of depressive symptoms among students.
+End-to-end machine learning project for binary classification of depressive symptoms among students.
 
-### Vehicle Detector — React Native + Machine Learning
-Mobile application capable of detecting vehicles using ML models (in progress).
-
-
-➡️ More projects available in my repositories.
+More projects are available in my repositories.
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
-I am seeking a **full-time Junior Developer role** where I can:
+I am seeking a **full-time Junior Software Developer role** where I can:
 
-- Contribute to real software products  
-- Grow in **AI, software engineering, and application development**  
-- Work in an international and collaborative environment  
+- Contribute to real software products
+- Grow in **AI, software engineering, and application development**
+- Work in an international and collaborative environment
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [Jean Dindane](https://www.linkedin.com/in/jean-dindane-629a91304/)
 - GitHub: [EpicNaje23](https://github.com/EpicNaje23)
@@ -75,13 +78,9 @@ I am seeking a **full-time Junior Developer role** where I can:
 
 ---
 
+## Languages
 
-## 🌍 Languages
-
-- English — Fluent  
-- Italian — Fluent  
-- French — Fluent  
-
----
-
-⭐️ Feel free to explore my repositories and connect with me!
+- English — Fluent
+- Italian — Fluent
+- French — Fluent
+- Swedish — Currently learning
