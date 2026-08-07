@@ -3,7 +3,6 @@
 Graduate in **Computer Science for Management**  
 Graduated in **July 2026**  
 Actively looking for a **full-time Junior Software Developer position**  
-Based in **Linköping, Sweden** / Open to opportunities in Europe
 
 ---
 
