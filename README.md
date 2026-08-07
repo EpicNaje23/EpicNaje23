@@ -72,7 +72,7 @@ I am seeking a **full-time Junior Software Developer role** where I can:
 
 ## Contact
 
-- LinkedIn: [Jean Dindane](https://www.linkedin.com/in/jean-dindane-629a91304/)
+- LinkedIn: [Jean Dindane](https://www.linkedin.com/in/jean-baptiste-dindane-629a91304/)
 - GitHub: [EpicNaje23](https://github.com/EpicNaje23)
 - Email: jeanbaptiste.dindane@studio.unibo.it
 
